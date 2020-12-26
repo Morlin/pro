@@ -1,0 +1,36 @@
+{
+    "helloFriends": "Hello my friends!",
+    "needUpgrade": "Do you need some upgrading?",
+    "longSpeech": {
+        "1":"I teach public speaking, and I do it well.",
+        "2": "Among you, there are top managers who do public presentations on a weekly basis.",
+        "3": "There are startupers who want to make a life-changing pitch in front of inverstors and customers. There are developers who want to present the results of their sprints and projects better. You all need the skill to act confidently in public and deliver impactful speeches.",
+        "4": "What I offer you is a custom-made public speaking program tailored to the specific needs of IT and startup community. It is an individual coaching program with lots of direct and personal contact. I invite you to join this program."
+    },
+    "letsStart": "Let’s start the journey to being better speakers, stronger leaders and more successful founders!",
+    "teachPublic": "I teach public speaking, and I do it well.",
+    "managers": "Managers",
+    "managersAmongYou": "Among you, there are top managers who do public presentations on a weekly basis.",
+    "startupers": "startupers",
+    "startupersAmongYou": "There are startupers who want to make a life-changing pitch in front of inverstors and customers.",
+    "developers": "developers",
+    "developersAmongYou":"There are developers who want to present the results of their sprints and projects better. You all need the skill to act confidently in public and deliver impactful speeches.",
+    "offer": "What I offer you is a custom-made public speaking program tailored to the specific need of IT and startup community. It is an individual coaching program with lots of direct and personal contact. I invite you to join this program.",
+    "whatYouGet": "What you get",
+    "whatYouGet1": "Greater confidence in public speaking situations",
+    "whatYouGet2": "Controlled use of your voice and body language",
+    "whatYouGet3": "A stronger pitch and presentation",
+    "whatYouGet4": "Readiness and confidence to answer questions",
+    "whatYouGet5": "Communication tricks to win over your audience",
+    "programIncludes": "The program includes",
+    "programIncludes1": "4 individual coaching session, once a week",
+    "programIncludes2": "2 group sessions",
+    "programIncludes3": "Watching master speakers",
+    "programIncludes4": "Doing homework",
+    "myMotivation": "I want a small group, 3-4 people. The program is not free, but, while I a, still testing the structure and content, the price in minimal, only $150 for month of learning. I feel grateful that you will help me to create a perfect product that will cost at least twice as much.",
+    "joinAction": "If you want to join, contact me. The first 4 people who make a $50 down payment, are admitted to the group.",
+    "btn":{
+        "join": "Public speaking program tailored to the specific needs of IT and startup community",
+        "registerFor": "Register for"
+    }
+}
